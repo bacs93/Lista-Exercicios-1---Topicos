@@ -1,0 +1,5 @@
+C:\Users\Logatti\source\repos\Lista Exercicios 1\Exercicio 2\bin\Debug\Exercicio 2.exe.config
+C:\Users\Logatti\source\repos\Lista Exercicios 1\Exercicio 2\bin\Debug\Exercicio 2.exe
+C:\Users\Logatti\source\repos\Lista Exercicios 1\Exercicio 2\bin\Debug\Exercicio 2.pdb
+C:\Users\Logatti\source\repos\Lista Exercicios 1\Exercicio 2\obj\Debug\Exercicio 2.exe
+C:\Users\Logatti\source\repos\Lista Exercicios 1\Exercicio 2\obj\Debug\Exercicio 2.pdb
