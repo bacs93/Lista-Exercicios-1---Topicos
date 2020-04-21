@@ -1,0 +1,7 @@
+E:\Downloads\topicos\Lista-Exercicios-1---Topicos-master\Lista Exercicios 1\Exercicio6\bin\Debug\Exercicio6.exe.config
+E:\Downloads\topicos\Lista-Exercicios-1---Topicos-master\Lista Exercicios 1\Exercicio6\bin\Debug\Exercicio6.exe
+E:\Downloads\topicos\Lista-Exercicios-1---Topicos-master\Lista Exercicios 1\Exercicio6\bin\Debug\Exercicio6.pdb
+E:\Downloads\topicos\Lista-Exercicios-1---Topicos-master\Lista Exercicios 1\Exercicio6\obj\Debug\Exercicio6.csproj.CoreCompileInputs.cache
+E:\Downloads\topicos\Lista-Exercicios-1---Topicos-master\Lista Exercicios 1\Exercicio6\obj\Debug\Exercicio6.exe
+E:\Downloads\topicos\Lista-Exercicios-1---Topicos-master\Lista Exercicios 1\Exercicio6\obj\Debug\Exercicio6.pdb
+E:\Downloads\topicos\Lista-Exercicios-1---Topicos-master\Lista Exercicios 1\Exercicio6\obj\Debug\Exercicio6.csprojAssemblyReference.cache

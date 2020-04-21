@@ -1,0 +1,6 @@
+E:\Downloads\topicos\Lista-Exercicios-1---Topicos-master\Lista Exercicios 1\Exercicio7\bin\Debug\Exercicio7.exe.config
+E:\Downloads\topicos\Lista-Exercicios-1---Topicos-master\Lista Exercicios 1\Exercicio7\bin\Debug\Exercicio7.exe
+E:\Downloads\topicos\Lista-Exercicios-1---Topicos-master\Lista Exercicios 1\Exercicio7\bin\Debug\Exercicio7.pdb
+E:\Downloads\topicos\Lista-Exercicios-1---Topicos-master\Lista Exercicios 1\Exercicio7\obj\Debug\Exercicio7.csproj.CoreCompileInputs.cache
+E:\Downloads\topicos\Lista-Exercicios-1---Topicos-master\Lista Exercicios 1\Exercicio7\obj\Debug\Exercicio7.exe
+E:\Downloads\topicos\Lista-Exercicios-1---Topicos-master\Lista Exercicios 1\Exercicio7\obj\Debug\Exercicio7.pdb
