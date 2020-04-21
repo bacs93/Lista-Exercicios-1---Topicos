@@ -1,0 +1,14 @@
+C:\Users\Windows\source\repos\Exercicio8\Exercicio8\bin\Debug\Exercicio8.exe.config
+C:\Users\Windows\source\repos\Exercicio8\Exercicio8\bin\Debug\Exercicio8.exe
+C:\Users\Windows\source\repos\Exercicio8\Exercicio8\bin\Debug\Exercicio8.pdb
+C:\Users\Windows\source\repos\Exercicio8\Exercicio8\obj\Debug\Exercicio8.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\Exercicio8\Exercicio8\obj\Debug\Exercicio8.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Exercicio8\Exercicio8\obj\Debug\Exercicio8.exe
+C:\Users\Windows\source\repos\Exercicio8\Exercicio8\obj\Debug\Exercicio8.pdb
+E:\Downloads\repos\Exercicio8\Exercicio8\bin\Debug\Exercicio8.exe.config
+E:\Downloads\repos\Exercicio8\Exercicio8\bin\Debug\Exercicio8.exe
+E:\Downloads\repos\Exercicio8\Exercicio8\bin\Debug\Exercicio8.pdb
+E:\Downloads\repos\Exercicio8\Exercicio8\obj\Debug\Exercicio8.csprojAssemblyReference.cache
+E:\Downloads\repos\Exercicio8\Exercicio8\obj\Debug\Exercicio8.csproj.CoreCompileInputs.cache
+E:\Downloads\repos\Exercicio8\Exercicio8\obj\Debug\Exercicio8.exe
+E:\Downloads\repos\Exercicio8\Exercicio8\obj\Debug\Exercicio8.pdb
