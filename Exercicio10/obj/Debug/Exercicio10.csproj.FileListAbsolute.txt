@@ -1,0 +1,14 @@
+C:\Users\Windows\source\repos\Exercicio10\Exercicio10\bin\Debug\Exercicio10.exe.config
+C:\Users\Windows\source\repos\Exercicio10\Exercicio10\bin\Debug\Exercicio10.exe
+C:\Users\Windows\source\repos\Exercicio10\Exercicio10\bin\Debug\Exercicio10.pdb
+C:\Users\Windows\source\repos\Exercicio10\Exercicio10\obj\Debug\Exercicio10.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\Exercicio10\Exercicio10\obj\Debug\Exercicio10.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Exercicio10\Exercicio10\obj\Debug\Exercicio10.exe
+C:\Users\Windows\source\repos\Exercicio10\Exercicio10\obj\Debug\Exercicio10.pdb
+E:\Downloads\repos\Exercicio10\Exercicio10\bin\Debug\Exercicio10.exe.config
+E:\Downloads\repos\Exercicio10\Exercicio10\bin\Debug\Exercicio10.exe
+E:\Downloads\repos\Exercicio10\Exercicio10\bin\Debug\Exercicio10.pdb
+E:\Downloads\repos\Exercicio10\Exercicio10\obj\Debug\Exercicio10.csprojAssemblyReference.cache
+E:\Downloads\repos\Exercicio10\Exercicio10\obj\Debug\Exercicio10.csproj.CoreCompileInputs.cache
+E:\Downloads\repos\Exercicio10\Exercicio10\obj\Debug\Exercicio10.exe
+E:\Downloads\repos\Exercicio10\Exercicio10\obj\Debug\Exercicio10.pdb
